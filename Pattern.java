@@ -27,6 +27,6 @@ public class Pattern {
     {
         int n = 3;
         printPattern(n);
-        System.out.println("\n Bye Bye");
+        System.out.println("\n working");
     }
 }
