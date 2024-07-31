@@ -25,7 +25,7 @@ public class Pattern {
     // Driver Function
     public static void main(String args[])
     {
-        int n = 5;
+        int n = 3;
         printPattern(n);
         System.out.println("\n Bye Bye");
     }
